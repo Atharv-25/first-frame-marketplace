@@ -10,7 +10,7 @@ import { LogOut } from "lucide-react";
 const NAV_LINKS = [
   { href: "/brand/campaign", label: "Campaign" },
   { href: "/brand/creators", label: "Creators" },
-  { href: "/brand/campaign/products/new", label: "Products" },
+  { href: "/brand/campaign/preferences", label: "Products" },
   { href: "/brand/campaign/submissions", label: "Submissions" },
 ];
 

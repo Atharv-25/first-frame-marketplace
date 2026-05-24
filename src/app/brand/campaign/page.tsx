@@ -168,8 +168,8 @@ export default function BrandCampaignPage() {
         <button onClick={() => router.push("/brand/creators")} className="btn-lime text-sm">
           <Users className="w-4 h-4" /> Browse Creators
         </button>
-        <button onClick={() => router.push("/brand/campaign/products/new")} className="btn-ghost-light text-sm">
-          <Package className="w-4 h-4" /> Add Product
+        <button onClick={() => router.push("/brand/campaign/preferences")} className="btn-ghost-light text-sm">
+          <Package className="w-4 h-4" /> Product Preferences
         </button>
       </div>
 
